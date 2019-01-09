@@ -1,4 +1,4 @@
-# docker-phpmyadmin
+# docker-python3
 
 python3のcliをdockerで動かす
 
